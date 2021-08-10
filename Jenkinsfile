@@ -38,7 +38,7 @@ pipeline {
           gitTool: 'Default', 
           submoduleCfg: [], 
           userRemoteConfigs: [[
-            credentialsId: 'GitHub_haroldcupitraceiba', 
+            credentialsId: 'Github_haroldcupitraceiba', 
             url:'https://github.com/haroldcupitraceiba/calculator'
           ]]
         ])
