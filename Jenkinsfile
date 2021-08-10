@@ -42,7 +42,6 @@ pipeline {
             url:'https://github.com/haroldcupitraceiba/calculator'
           ]]
         ])
-
       }
     }
     
